@@ -1,0 +1,17 @@
+html, body, p, h1 {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: #222;
+}
+
+.clearfix{
+  clear: both;
+}
+
+.content-wrapper {
+  margin: 40px auto 0px;
+  width: 500px;
+}
